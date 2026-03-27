@@ -131,5 +131,5 @@ Or paste queries into [sqliteonline.com](https://sqliteonline.com) after uploadi
 
 ## Contact
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:your@email.com) · [Portfolio](https://yourportfolio.com)
+**Lia Saiyan**  
+[LinkedIn](https://linkedin.com/in/liasaiyan) · [Email](mailto:liasaiyan@gmail.com) 
